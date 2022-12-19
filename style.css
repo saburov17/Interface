@@ -1,0 +1,33 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: 
+        #ccc;
+
+    font-family: Arial;
+}
+
+h1 {
+    font-size: 30px;
+    color: #af1e50;
+}
+input {
+    outline: none;
+    margin: 10px 0;
+}
+button {
+    padding: 10px;
+    background: #e3e3e3;
+    border: unset;
+    cursor: pointer;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
